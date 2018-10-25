@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-Feb-2017, 10:25:03
+    Author     : Estudents
+*/
+form{
+    width: 40%;
+    border: 4px black solid;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+    background-color: yellow;
+}
+#imagen{
+    display: block;
+    
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+#img{
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+}
+#boton{
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    text-decoration: none;
+    color:blue;
+    background-color:white;
+    border: 2px silver solid;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 3px 3px 4px black;
+    line-height: 50px;
+    font-weight: bold;
+    
+}
+#exp{
+    
+    width: 90%;
+    border-collapse: collapse;
+    margin: auto;
+        
+
+}
+td{
+    padding: 5px;
+}
+th{
+    background-color: brown;
+    color:white;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color:brown;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    color: white;
+    background-color: brown;
+    font-style: italic;
+}
+#img{
+    display: inline-block;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    background-color:white;
+    border: 2px silver solid;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 3px 3px 4px black;
+    line-height: 50px;
+    font-weight: bold;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+#tabla tr:hover{
+    background-color: #00ccff;
+    
+}
